@@ -3,11 +3,11 @@
 
 See [instructions.md](instructions.md) for submission instructions.
 
-# TODO: Replace this with Your Project Title
+Learning REACT
 
 ## Description
 
-TOD: Replace this with at least a few paragraphs describing your project.
+TOD: For this project, I will be including a demo of several concepts including basic page creation and connecting it to a databse!
 ## Repository Organization
 
 TODO: Replace this with a description of the organization of your repository.
